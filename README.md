@@ -105,6 +105,3 @@ If invalid:
 ## 📝 License
 
 MIT
-
-Do you want me to also add a **browser usage example** (using `window.fetch` without `require`) in the README?
-```
