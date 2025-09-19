@@ -99,6 +99,7 @@ If invalid:
   ```
 * This repository is just a thin wrapper around the KeyShop API.
 * You can easily extend it if more endpoints are added later (e.g. product listing, redeeming keys, premium gifting).
+* Get API Key on [Yellow Skunk Developers](https://devs--yellowskunk.netlify.app)
 
 ---
 
